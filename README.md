@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=160&section=header&text=Sahan%20Pramuditha&fontSize=48&fontColor=e2e8f0&fontAlignY=55&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20BICT%20%40%20University%20of%20Colombo&descSize=16&descColor=94a3b8&descAlignY=78" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0c1a2e,80:0d2137,100:0d1117&height=220&section=header&text=Sahan%20Pramuditha&fontSize=55&fontColor=E2E8F0&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20BICT%20%40%20University%20of%20Colombo%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=16&descColor=38BDF8&descAlignY=63" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+production-grade+web+%26+mobile+apps+%F0%9F%9A%80;React+19+%7C+Next.js+%7C+Three.js+%7C+GSAP+%7C+Kotlin;Turning+complex+problems+into+clean+solutions+%E2%9C%A8;Always+learning+%E2%86%92+always+shipping+%F0%9F%93%A6)](https://sahanpramuditha.me)
 
 </div>
 
@@ -8,106 +14,128 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+production-grade+web+applications;Exploring+Android+%26+mobile+development;Creating+tools+that+solve+real+problems;Always+learning%2C+always+shipping)](https://github.com/sahanpramuditha)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sahanpramuditha.me-0ea5e9?style=for-the-badge&labelColor=1e293b&color=0ea5e9)](https://sahanpramuditha.me)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1b2a)](https://www.linkedin.com/in/sahan-pramuditha-754761356/)&nbsp;
+[![YouTube](https://img.shields.io/badge/CiperForge_Tech_Lab-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1b2a)](https://youtube.com/@CiperForge)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1b2a)](mailto:sahanpramuditha91@gmail.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1b2a)](https://twitter.com/sahanpramuditha)
+
+</div>
+
+<br/>
+
+---
+
+## 👋 About Me
+
+I'm a **software developer and BICT undergraduate** at the University of Colombo, building performant web and mobile applications. I care about developer experience, clean architecture, and code that scales.
+
+Currently shipping a **[space-themed 3D portfolio](https://sahanpramuditha.me)** powered by React 19, Three.js, and GSAP — alongside an inventory system, an Android networking app, and educational platforms.
+
+I also run **[CiperForge Tech Lab](https://youtube.com/@CiperForge)** on YouTube — practical dev tutorials and building in public.
+
+<br/>
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| 📍 | Negombo, Western Province, Sri Lanka |
+| 🎓 | BICT — University of Colombo *(Class of 2026)* |
+| 🔭 | Currently building: **Invento** Inventory System |
+| 📺 | YouTube: **[CiperForge Tech Lab](https://youtube.com/@CiperForge)** |
+| 📫 | sahanpramuditha91@gmail.com |
+| ⚡ | Best code written between 11 PM – 3 AM |
 
 </div>
 
 ---
 
-## About
+## 🛠️ Tech Stack
 
-I'm a software developer and BICT student based in Negombo, Sri Lanka, focused on building clean, performant applications across web and mobile. I care deeply about developer experience, system architecture, and writing code that's actually maintainable.
+<div align="center">
 
-Currently shipping **[sahanpramuditha.me](https://sahanpramuditha.me)** — a space-themed developer portfolio built with React 19, Three.js, and GSAP — while working on a suite of projects spanning inventory systems, Android networking tools, and educational platforms.
+### 🔤 Languages
 
-I run **CiperForge Tech Lab** on YouTube, where I share practical tutorials and build in public.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-```
-📍  Negombo, Western Province, Sri Lanka
-🎓  BICT — University of Colombo (Class of 2026)
-🔭  Currently building: Invento Inventory System
-📺  YouTube: CiperForge Tech Lab
-📫  sahanpramuditha91@gmail.com
-```
+### 🎨 Frontend
 
----
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite_7-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-## Tech Stack
+### ⚙️ Backend · Databases · Mobile · DevOps
 
-**Languages**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB)
-![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=flat-square&logo=kotlin&logoColor=7F52FF)
-![Java](https://img.shields.io/badge/Java-0f172a?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=cplusplus&logoColor=00599C)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Three.js](https://img.shields.io/badge/Three.js-0f172a?style=flat-square&logo=threedotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f172a?style=flat-square&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-0f172a?style=flat-square&logo=greensock&logoColor=88CE02)
-![Vite](https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite&logoColor=646CFF)
-
-**Backend & Mobile**
-
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=flat-square&logo=firebase&logoColor=FFCA28)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=47A248)
-![Android](https://img.shields.io/badge/Android-0f172a?style=flat-square&logo=android&logoColor=3DDC84)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED)
+</div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Space Portfolio
-Personal developer portfolio with 3D visualizations, a cinematic loading screen, and a custom skill orbit system.
+### 🌌 Space Portfolio
+Personal developer portfolio with a 3D skill orbit, cinematic loading screen, and deep-space HUD aesthetic.
 
-**Stack:** React 19 · Vite 7 · Three.js · React Three Fiber · Tailwind CSS · GSAP · Framer Motion
+**Stack:** `React 19` `Vite 7` `Three.js` `React Three Fiber` `GSAP` `Framer Motion` `Tailwind CSS`
 
-[![Live](https://img.shields.io/badge/Live-sahanpramuditha.me-38BDF8?style=flat-square)](https://sahanpramuditha.me)
+[![Live](https://img.shields.io/badge/🌐_Live-sahanpramuditha.me-0ea5e9?style=flat-square)](https://sahanpramuditha.me)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📦 Invento
-Inventory management system with real-time tracking, analytics dashboard, and multi-tenant support.
+Multi-tenant inventory management system with real-time tracking, analytics dashboard, and WebSocket updates.
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · WebSocket · PostgreSQL
+**Stack:** `Next.js` `TypeScript` `Tailwind CSS` `WebSocket` `PostgreSQL` `Prisma`
 
 ![Status](https://img.shields.io/badge/Status-In_Development-f59e0b?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-85%25-22c55e?style=flat-square)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📡 NetPulse
-Android Wi-Fi management app with network diagnostics, device discovery, and connection analytics.
+Android Wi-Fi management app with network diagnostics, device discovery, signal analysis, and MVVM architecture.
 
-**Stack:** Kotlin · MVVM · Jetpack Architecture · Android SDK
+**Stack:** `Kotlin` `MVVM` `Jetpack` `Hilt` `Coroutines` `Android SDK`
 
 ![Status](https://img.shields.io/badge/Status-Active-22c55e?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎓 LearnOS
-Student-focused learning management dashboard concept covering session tracking, progress analytics, and notes.
+Student-focused LMS dashboard with session lifecycle management, progress tracking, video player, and notes.
 
-**Stack:** React · Firebase · Firestore · Vercel
+**Stack:** `React` `Firebase` `Firestore` `Vercel` `Tailwind CSS`
 
-![Status](https://img.shields.io/badge/Status-Concept_Design-a855f7?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Design_Phase-a855f7?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Web_App-3178C6?style=flat-square)
 
 </td>
 </tr>
@@ -115,42 +143,69 @@ Student-focused learning management dashboard concept covering session tracking,
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahanpramuditha&show_icons=true&hide_border=true&count_private=true&theme=github_dark&title_color=38BDF8&icon_color=38BDF8&text_color=94a3b8&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanpramuditha&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e293b&ring=38BDF8&fire=f59e0b&currStreakLabel=38BDF8" />
+<img src="https://github-readme-stats.vercel.app/api?username=SahanPramuditha-Dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&rank_icon=github" height="175" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=SahanPramuditha-Dev&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&border_radius=10" height="175" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanpramuditha&theme=github-compact&hide_border=true&bg_color=0d1117&color=94a3b8&line=38BDF8&point=f59e0b&area=true&area_color=38BDF8" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahanPramuditha-Dev&layout=compact&hide_border=true&theme=tokyonight&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117&border_radius=10&langs_count=8" height="160" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanPramuditha-Dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7dd3fc&line=38bdf8&point=f59e0b&area=true&area_color=0c4a6e&radius=6&custom_title=Sahan%27s%20Contribution%20Graph" width="97%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## Connect
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sahanpramuditha.me-0f172a?style=for-the-badge&logo=firefox&logoColor=38BDF8)](https://sahanpramuditha.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sahan-pramuditha-754761356/)
-[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahanpramuditha)
-[![YouTube](https://img.shields.io/badge/CiperForge_Tech_Lab-0f172a?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@CiperForge)
-[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sahanpramuditha91@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/sahanpramuditha)
+<img src="https://github-profile-trophy.vercel.app/?username=SahanPramuditha-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" alt="GitHub Trophies"/>
 
 </div>
 
-<br/>
+---
+
+## 🤝 Open To
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d1b2a,100:0a0a0f&height=100&section=footer&fontSize=14&fontColor=475569&animation=fadeIn" width="100%"/>
+| Opportunity | Status |
+|:---|:---:|
+| 🌐 Full-Stack Web Projects | ✅ Available |
+| 📱 Android / Kotlin Development | ✅ Available |
+| 🎓 Tech Mentorship | ✅ Open |
+| 🤝 Open Source Contributions | ✅ Contributing |
+| 🎥 YouTube / Tech Content Collab | ✅ Interested |
+| 💼 Internship / Part-time Roles | 🔍 Considering |
 
-<sub>Open to collaboration on interesting problems · Always happy to talk about systems design, frontend engineering, or Android development</sub>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SahanPramuditha-Dev&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/SahanPramuditha-Dev?label=Followers&style=flat-square&color=38bdf8&labelColor=1e293b" alt="Followers"/>
+
+<br/><br/>
+
+*Always happy to talk systems design, frontend engineering, or Android development.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c1a2e,100:0d1117&height=110&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
